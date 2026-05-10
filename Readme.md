@@ -16,6 +16,7 @@ With the latest update, the project now includes a Tkinter-based ingestion layer
 
 🔄 Data Ingestion (NEW)
 
+* DI involves:
     - Multi-file upload via Tkinter UI
     - Supports CSV, XLSX, XLS formats
     - Upload files from multiple folders in one go
@@ -31,6 +32,7 @@ With the latest update, the project now includes a Tkinter-based ingestion layer
 
 📦 Centralized Data Management (NEW)
 
+* CDM involves:
     - All datasets stored in a unified dictionary (dfs)
     - Enables smooth downstream transformations
     - Reduces redundancy and improves pipeline modularity
